@@ -7,4 +7,10 @@
     <li>Initialize OpenGL and create a window.</li>
     <li>Set up the viewport and projection.</li>
   </ul>
+  <br>
+  <li>Define Game Objects:</li>
+  <ul>
+    <li>Create the bow and arrow.</li>
+    <li>Create the target.</li>
+  </ul>
 </ol>
