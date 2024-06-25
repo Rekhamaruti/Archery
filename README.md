@@ -3,5 +3,4 @@
 <h3>Outline of the Game</h3>
 <ol>
   <li>Setup OpenGL:</li>
-  <p></p>
 </ol>
