@@ -13,4 +13,10 @@
     <li>Create the bow and arrow.</li>
     <li>Create the target.</li>
   </ul>
+  <li>Game Logic:</li>
+  <ul>
+    <li>Handle user input to aim and shoot the arrow.</li>
+    <li>Detect collisions between the arrow and the target.</li>
+    <li>Score the game based on the accuracy of the shot.</li>
+  </ul>
 </ol>
