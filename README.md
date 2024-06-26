@@ -19,4 +19,10 @@
     <li>Detect collisions between the arrow and the target.</li>
     <li>Score the game based on the accuracy of the shot.</li>
   </ul>
+  <li>Rendering Loop:</li>
+  <ul>
+    <li>Continuously render the game scene.</li>
+    <li>Update the position of the arrow.</li>
+    <li>Check for collisions.</li>
+  </ul>
 </ol>
